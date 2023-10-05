@@ -1,0 +1,1 @@
+enum MusicListEnum { ALL, FAVOURITE }

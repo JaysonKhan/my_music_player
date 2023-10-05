@@ -1,0 +1,1 @@
+enum RepeatEnum { OFF, REPEAT_ONE, REPEAT_PLAYLIST }
